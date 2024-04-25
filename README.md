@@ -31,7 +31,9 @@ Also there are webpages for privacy , contact, review, blog contents.
 ## Setup Instructions
 
 1. Clone the repository to your local machine.  
-    git clone https://github.com/yourusername/mega-m-mart.git
+    git clone https://github.com/mihirpatel20-mp/Web-Dev-Project-Mega-M-Mart-.git
+
+   
 2. Launch the website by opening home.html in your web browser.
  
 ## Contribution
